@@ -1,0 +1,47 @@
+/* Body */
+body{
+    background: hsl(212, 45%, 89%);
+    margin: 0;
+    width: 1440px;
+}
+
+/* Attribution - Challenge by ... */
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+/* Card */
+.card{
+    background: white;
+    width: 300px;
+    padding: 1.1rem;
+    border-radius: 20px;
+    text-align: center;
+    margin: 10% auto;
+}
+
+/* Image */
+img{
+    border-radius: 10px;
+}
+
+/* Typography */
+.textbox{
+    font-family: 'Outfit', sans-serif;
+    padding: .5rem .8rem;
+}
+
+/* Text colours */
+h2{
+    /* font-size: 20px; */
+    color: hsl(218, 44%, 22%);
+}
+p{
+    color: hsl(220, 15%, 55%);
+    font-size: 15px;
+    margin: 10px;
+    margin-bottom: 1rem;
+}
+
+figure{
+    margin: auto;
+}
